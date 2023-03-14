@@ -221,7 +221,7 @@ h3 {
     rgba(0, 0, 0, 0) 0.52%,
     rgba(0, 0, 0, 0.4) 82.81%
   );
-  background-image: url("/resourses/bed.svg");
+  background-image: url("../resourses/bed.svg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50% 50%;
@@ -271,7 +271,7 @@ h3 {
   width: 24px;
   height: 24px;
   margin-bottom: 12px;
-  background-image: url("/resourses/icon-phone.png");
+  background-image: url("../resourses/icon-phone.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
